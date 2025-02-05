@@ -1,11 +1,9 @@
 <script setup lang="ts">
-import { Button } from '#/button'
+import { Button } from "#/button"
 </script>
 
 <template>
-  <div>
-    <Button>
-      Hi
-    </Button>
-  </div>
+   <div>
+      <Button> Hi </Button>
+   </div>
 </template>
