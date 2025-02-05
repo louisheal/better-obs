@@ -19,7 +19,6 @@
       "editor.formatOnSave": true,
       "editor.codeActionsOnSave": {
          "source.fixAll.oxc": "explicit",
-         "source.sortImports": "always"
       },
       "editor.detectIndentation": false,
       "editor.indentSize": "tabSize",
