@@ -5,7 +5,7 @@ import { TooltipProvider } from "#/tooltip"
 </script>
 
 <template>
-   <TooltipProvider>
+   <TooltipProvider :delayDuration="300">
       <MainLayout>
          <MainPage />
       </MainLayout>
